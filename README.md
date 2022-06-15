@@ -1,4 +1,4 @@
-    <h1 align="center">Hi 👋, I'm Siegfried</h1>
+ <h1 align="center">Hi 👋, I'm Siegfried</h1>
 <h3 align="center">A passionate aspiring full stack developer from Switzerland</h3>
 
 - 🔭 I’m currently working on [Swiss Hike Finder](https://github.com/boririna/hike_finder)
