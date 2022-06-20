@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Siegfried</h1>
 <h3 align="center">A passionate aspiring full stack developer from Switzerland</h3>
 
-- 🔭 I’m currently working on [Swiss Hike Finder](https://github.com/boririna/hike_finder)
+- 🔭 I’m currently working on [Swiss Hike Finder](https://github.com/boririna/hike_finder) and also on MapBox Isochrones
 
 - 🌱 I’m currently learning *** Rails, React React Redux, Solidity, Ethers, Moralis
 
