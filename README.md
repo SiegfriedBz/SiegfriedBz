@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Swiss Hike Finder](https://github.com/boririna/hike_finder) and on MapBox Isochrones
 
-- 🌱 I’m currently learning *** Rails, React React Redux, Solidity, Ethers, Moralis
+- 🌱 I’m currently learning *** Rails, React React Redux, Solidity, Ethers
 
 - 👯 I’m looking to collaborate on **any web3 project !**
 
