@@ -1,13 +1,13 @@
-# Hi there 👋 I'm Siegfried!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=siegfriedBz&show_icons=true&hide_border=true">
 
-## ⚡Stats
+### Hi there! I'm Siegfried 👋 
 
-![SiegfriedBz's GitHub stats](https://github-readme-stats.vercel.app/api?username=siegfriedbz&show_icons=true&theme=tokyonight&hide_border=true)
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=siegfriedbz&show_icons=true&hide_border=true">
-
+Code made with ❤️ in 🇨🇭
 
 <!--
+
+- Website 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
