@@ -1,22 +1,31 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=siegfriedBz&show_icons=true&hide_border=true">
+# Hi there! 👋
 
-### Hi there! I'm Siegfried 👋 
+I'm Siegfried, a Web Developer with a background in  🧬 Biology Research 🇨🇦🇫🇷 &  🏗️ Civil Engineering 🇫🇷🇨🇭
+
+### 🌍 About Me
+- **Training:** "Le Wagon" Bootcamp 🇨🇭 & Web Agency Internship 🇨🇭
+- **Interests:** ❤️ React, Next.js, TypeScript, Node/Express
+- **Seeking:** Web Developer opportunities
+
+### 🛠️ My Skills
+- **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, JavaScript, React
+- **Backend:** Node.js, Express, MongoDB
+- **Full Stack:** Next.js, TypeScript
+- **Testing:** Cypress, Jest, Supertest
+- **Tools:** Git
+
+### 📚 Currently Learning
+- **Data Structures and Algorithms**
+
+### 🌐 My Portfolio
+- [Portfolio](https://siegfried-bozza-portfolio.vercel.app/)
+
+I'm excited to keep learning & grow my skills, to contribute to innovative projects and collaborate with other developers. Feel free to reach out!
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siegfriedbz&show_icons=true&locale=en&layout=compact" alt="siegfriedbz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siegfriedbz&show_icons=true&locale=en" alt="siegfriedbz" /></p>
 
 
-<!--
-
-- Website 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
