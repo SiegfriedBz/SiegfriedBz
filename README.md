@@ -20,6 +20,9 @@ I'm Siegfried, a Web Developer with a background in  🧬 Biology Research 🇨�
 ### 🌐 My Portfolio
 - [Portfolio](https://siegfried-bozza-portfolio.vercel.app/)
 
+### 📬 Contact Me
+Feel free to reach out via email at [siegfried.bozza@protonmail.com](mailto:siegfried.bozza@protonmail.com) !
+
 I'm excited to keep learning & grow my skills, to contribute to innovative projects and collaborate with other developers. Feel free to reach out!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siegfriedbz&show_icons=true&locale=en&layout=compact" alt="siegfriedbz" /></p>
