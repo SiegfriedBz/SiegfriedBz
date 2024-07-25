@@ -18,6 +18,10 @@ I'm Siegfried, a Web Developer with a background in Biology Research🇨🇦🇫
 ### 📚 Currently Learning
 - **Data Structures and Algorithms**
 
+### 🌟 Current Contributions 
+I’m currently contributing to the [DeXter-on-Radix/website](https://github.com/DeXter-on-Radix/website) project. 
+This opportunity allows me to apply and further develop my skills in React and Next.js while working on a dynamic and engaging project.
+
 ### 🌐 My Portfolio
 - [Portfolio](https://siegfried-bozza-portfolio.vercel.app/)
 
