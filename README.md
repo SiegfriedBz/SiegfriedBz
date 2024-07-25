@@ -4,7 +4,6 @@ I'm Siegfried, a Web Developer with a background in Biology Research🇨🇦🇫
 
 ### 🌍 About Me
 - **Training:** 🧬 M.Sc Biology🇫🇷  | 🏗️ M.Eng Civil Engineering🇫🇷  | </> "Le Wagon" Bootcamp🇨🇭 & Web Agency Internship🇨🇭
-- **Work Experience:** 🇨🇦🇫🇷🇨🇭
 - **Interests:** ❤️ React, Next.js, TypeScript, Node/Express
 - **Seeking:** Front-end | Full-Stack JavaScript Developer opportunities (React, Next.js, Node/Express)
 
