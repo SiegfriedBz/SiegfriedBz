@@ -19,10 +19,6 @@ I'm enthusiastic about building scalable Web Applications using JavaScript, Type
 ### 🌐 My Portfolio
 - [Portfolio](https://siegfried-bozza-portfolio.vercel.app)
 
-### 🌟 Current Contributions 
-I’m currently contributing to the [DeXter-on-Radix/website](https://github.com/DeXter-on-Radix/website) project. 
-This opportunity allows me to apply and further develop my skills in React and Next.js while working on a dynamic and engaging project.
-
 ### 📚 Currently Learning
 - **JavaScript Data Structures and Algorithms** (Udemy): Ongoing since July 2024. Covers Big O notation, searching & sorting algorithms, and data structures.
 
