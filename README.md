@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Siegfried, french citizen, Web Developer with a background in Biology Research🇨🇦🇫🇷  &  Civil Engineering🇫🇷🇨🇭
+I'm Siegfried, Web Developer with a background in Biology Research🇨🇦🇫🇷  &  Civil Engineering🇫🇷🇨🇭   
 I'm enthusiastic about building scalable Web Applications using JavaScript, TypeScript, React, Node & Express, and Next.js !
 
 ### 🌍 About Me
