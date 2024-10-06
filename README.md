@@ -22,9 +22,9 @@ I'm enthusiastic about building scalable Web Applications using JavaScript, Type
 ### 📚 Currently Learning
 - **JavaScript Data Structures and Algorithms** (Udemy): Covers Big O notation, searching & sorting algorithms, and data structures.
 
-### 💡 Current Contributions
-- [DeXter-on-Radix](https://github.com/DeXter-on-Radix/website) open-source project
-- [Radix Meme Launchpad - repo](https://github.com/dcts/radix.meme) & [Radix Meme Launchpad - live](https://www.radix.meme/)
+### 💡 Contributions
+- [DeXter on Radix](https://github.com/DeXter-on-Radix/website) 
+- [Radix Meme Launchpad](https://github.com/dcts/radix.meme) - EBC10 Radix Hackathon - 🚀 5th place over 15 teams
 
 ### 📬 Contact Me
 Feel free to reach out via email at [siegfried.bozza@protonmail.com](mailto:siegfried.bozza@protonmail.com) !
