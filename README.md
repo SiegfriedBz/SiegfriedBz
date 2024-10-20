@@ -24,7 +24,8 @@ I'm enthusiastic about building scalable Web Applications using JavaScript, Type
 
 ### 💡 Contributions to Web3 projects
 - Maintainer @ [DeXter on Radix](https://github.com/DeXter-on-Radix/website) 
-- Maintainer @ [Radix Meme Launchpad](https://github.com/dcts/radix.meme) - EBC10 Radix Hackathon - 🚀 5th place over 15 teams
+- Maintainer @ [Radix Meme Launchpad](https://github.com/dcts/radix.meme) - Next 14 version - EBC10 Radix Hackathon => 🚀 5th place over 15 teams
+- Maintainer @ Radix Meme Launchpad V2 - React SPA version (team majority decided to switch to a full client side app, with my regrets as I love Next.js.. but I also love Vanilla React with react-router-v6 so that s all good ! 🚀 :)
 
 ### 📬 Contact Me
 Feel free to reach out via email at [siegfried.bozza@protonmail.com](mailto:siegfried.bozza@protonmail.com) !
