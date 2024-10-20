@@ -22,7 +22,7 @@ I'm enthusiastic about building scalable Web Applications using JavaScript, Type
 ### 📚 Currently Learning
 - **JavaScript Data Structures and Algorithms** (Udemy): Covers Big O notation, searching & sorting algorithms, and data structures.
 
-### 💡 Contributions
+### 💡 Contributions to Web3 projects
 - Maintainer @ [DeXter on Radix](https://github.com/DeXter-on-Radix/website) 
 - Maintainer @ [Radix Meme Launchpad](https://github.com/dcts/radix.meme) - EBC10 Radix Hackathon - 🚀 5th place over 15 teams
 
