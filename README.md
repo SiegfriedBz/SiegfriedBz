@@ -22,8 +22,9 @@ I'm enthusiastic about building scalable Web Applications using JavaScript, Type
 ### 📚 Currently Learning
 - **JavaScript Data Structures and Algorithms** (Udemy): Covers Big O notation, searching & sorting algorithms, and data structures.
 
-### 💡 Contributions to Web3 projects
-- [Radix Meme Launchpad](https://github.com/dcts/radix.meme) - Next 14 - EBC10 Radix Hackathon => 5th place over 15 teams. Left project after hackathon for team legal decisions not matching my ethics. 
+### 💡 Contributions to web3 projects
+- [Radix Meme Launchpad](https://github.com/dcts/radix.meme) - Next 14 version of this app - EBC10 Radix Hackathon => 5th place over 15 teams.
+  => Left project afer hackhaton because of team legal decisions not matching my ethics / vision of building a successful and sustainable project. 
 
 ### 📬 Contact Me
 Feel free to reach out via email at [siegfried.bozza@protonmail.com](mailto:siegfried.bozza@protonmail.com) !
