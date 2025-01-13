@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-I'm Siegfried, Web Developer with a background in Biology Research🇨🇦🇫🇷  &  Civil Engineering🇫🇷🇨🇭   
-I'm enthusiastic about building scalable Web Applications using JavaScript, TypeScript, React, Node & Express, and Next.js !
+I'm Siegfried, React / Next.js Developer with a background in Biology Research🇨🇦🇫🇷 & Civil Engineering🇫🇷🇨🇭   
+I'm enthusiastic about building scalable Web Applications using JS, TS, React, Node & Express, and Next.js !
 
 ### 🌍 About Me
 - **Enjoy International Environments:** 5 years of work experience abroad (3 years in Vancouver🇨🇦 & 2 years in Zurich🇨🇭)
