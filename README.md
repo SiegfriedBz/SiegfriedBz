@@ -11,7 +11,7 @@ I'm enthusiastic about building scalable Web Applications using JS, TS, React, N
 
 ### 🛠️ My Skills
 - **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, JavaScript, React
-- **Backend:** Node.js, Express, MongoDB, SQL, PostgreSQL
+- **Backend:** Node.js, Express, MongoDB, SQL, PostgreSQL, Supabase
 - **Full Stack:** Next.js, TypeScript
 - **Testing:** Cypress, Jest, Supertest
 - **Tools:** Git
