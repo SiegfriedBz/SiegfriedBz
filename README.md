@@ -1,18 +1,18 @@
 # Hi there! 👋
 
 I'm Siegfried, React / Next.js Developer with a background in Biology Research🇨🇦🇫🇷 & Civil Engineering🇫🇷🇨🇭   
-I'm enthusiastic about building scalable Web Applications using JS, TS, React, Node & Express, and Next.js !
+I'm enthusiastic about building scalable Web Applications using TS, React and Next.js !
 
 ### 🌍 About Me
 - **Enjoy International Environments:** 5 years of work experience abroad (3 years in Vancouver🇨🇦 & 2 years in Zurich🇨🇭)
 - **Training:** 🧬 M.Sc Biology🇫🇷  | 🏗️ M.Eng Civil Engineering🇫🇷  | </> "Le Wagon" Bootcamp🇨🇭 & Web Agency Internship🇨🇭
-- **Interests:** ❤️ React, Next.js, TypeScript, Node/Express
-- **Seeking:** Front-end | Full-Stack JavaScript Developer opportunities (React, Next.js, Node/Express)
+- **Interests:** ❤️ React, Next.js, Tailwind CSS, Shadcn/ui, Solidity/Foundry
+- **Seeking:** Front-end | Full-Stack JavaScript Developer opportunities
 
 ### 🛠️ My Skills
-- **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, JavaScript, React
-- **Backend:** Node.js, Express, MongoDB, SQL, PostgreSQL, Supabase
-- **Full Stack:** Next.js, TypeScript
+- **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, TS, React
+- **Backend:** Node.js, Express, PostgreSQL, Supabase
+- **Full Stack:** TS, Next.js
 - **Testing:** Cypress, Jest, Supertest
 - **Tools:** Git
 
