@@ -6,7 +6,7 @@ I'm enthusiastic about building scalable Web Applications using TS, React and Ne
 ### 🌍 About Me
 - **Enjoy International Environments:** 5 years of work experience abroad (3 years in Vancouver🇨🇦 & 2 years in Zurich🇨🇭)
 - **Training:** 🧬 M.Sc Biology🇫🇷  | 🏗️ M.Eng Civil Engineering🇫🇷  | </> "Le Wagon" Bootcamp🇨🇭 & Web Agency Internship🇨🇭
-- **Interests:** ❤️ React, Next.js, Tailwind CSS, Shadcn/ui, Solidity/Foundry
+- **Interests:** ❤️ React, Next.js, Tailwind CSS, Shadcn/ui
 - **Seeking:** Front-end | Full-Stack JavaScript Developer opportunities
 
 ### 🛠️ My Skills
