@@ -10,10 +10,10 @@ I'm enthusiastic about building scalable Web Applications using TS, React and Ne
 - **Seeking:** Front-end | Full-Stack JavaScript Developer opportunities
 
 ### 🛠️ My Skills
-- **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, TS, React, Wagmi
+- **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, TS, React -- Wagmi
 - **Backend:** Node.js, Express, PostgreSQL, Supabase
 - **Full Stack:** TS, Next.js
-- **Testing:** Cypress, Jest, Supertest
+- **Testing:** Cypress, Jest, Supertest -- Foundry
 - **Tools:** Git
 
 ### 🌐 My Portfolio
