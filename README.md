@@ -17,7 +17,8 @@ I'm enthusiastic about building scalable Web Applications using TS, React and Ne
 - **Tools:** Git
 
 ### 🌐 My Portfolio
-- [Portfolio](https://siegfried-bozza-portfolio.vercel.app)
+- Portfolio 2025 (currently building...)
+- [Portfolio 2024](https://siegfried-bozza-portfolio.vercel.app)
 
 ### 📬 Contact Me
 Feel free to reach out via email at [siegfried.bozza@protonmail.com](mailto:siegfried.bozza@protonmail.com) !
