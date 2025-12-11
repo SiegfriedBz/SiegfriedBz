@@ -7,7 +7,7 @@ I'm enthusiastic about building scalable Web Applications using TS, React and Ne
 - **Enjoy International Environments:** 5 years of work experience abroad (3 years in Vancouver🇨🇦 & 2 years in Zurich🇨🇭)
 - **Training:** 🧬 M.Sc Biology🇫🇷  | 🏗️ M.Eng Civil Engineering🇫🇷  | </> "Le Wagon" (web2) Bootcamp🇨🇭 & Web Agency Internship🇨🇭 | Metana Solidity (web3) Bootcamp
 - **Interests:** ❤️ React, Next.js, Tailwind CSS, Shadcn/ui, Solidty, Wagmi
-- **Seeking:** Front-end | Full-Stack JavaScript Developer opportunities
+- **Seeking:** Front-end | Full-Stack Developer opportunities -- Highly Flexible worldwide relocation
 
 ### 🛠️ My Skills
 - **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, TS, React -- Wagmi
@@ -17,7 +17,7 @@ I'm enthusiastic about building scalable Web Applications using TS, React and Ne
 - **Tools:** Git
 
 ### 🌐 My Portfolio
-- Portfolio 2025 (currently building...)
+- [Portfolio 2025](https://siegfried-bozza-portfolio-next.vercel.app)
 - [Portfolio 2024](https://siegfried-bozza-portfolio.vercel.app)
 
 ### 📬 Contact Me
