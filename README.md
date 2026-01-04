@@ -1,34 +1,24 @@
-# Hi there! 👋
+# Software Engineer | React · Next.js · TypeScript · Web3
 
-I'm Siegfried, React / Next.js Developer with a background in Biology Research🇨🇦🇫🇷 & Civil Engineering🇫🇷🇨🇭   
-I'm enthusiastic about building scalable Web Applications using TS, React and Next.js !
+I bring a background in **Biology Research (M.Sc)** and **Civil Engineering (M.Eng)** to software development. My focus is on building reliable, type-safe web applications where data integrity and professional rigor are paramount.
 
-### 🌍 About Me
-- **Enjoy International Environments:** 5 years of work experience abroad (3 years in Vancouver🇨🇦 & 2 years in Zurich🇨🇭)
-- **Training:** 🧬 M.Sc Biology🇫🇷  | 🏗️ M.Eng Civil Engineering🇫🇷  | </> "Le Wagon" (web2) Bootcamp🇨🇭 & Web Agency Internship🇨🇭 | Metana Solidity (web3) Bootcamp
-- **Interests:** ❤️ React, Next.js, Tailwind CSS, Shadcn/ui, Solidty, Wagmi
-- **Seeking:** Front-end | Full-Stack Developer opportunities -- Highly Flexible worldwide relocation
+### 🌍 Professional Context
+- **Experience:** 1.5+ years professional React/Next.js; 3.5+ years total dev; 15 years in scientific/engineering environments.
+- **Global Mindset:** 5 years international work experience (Vancouver 🇨🇦 & Zurich 🇨🇭).
+- **Focus:** Writing clean code with an emphasis on refactoring, custom hook patterns, and leveraging Next.js Streaming and Suspense for optimized data fetching.
 
-### 🛠️ My Skills
-- **Frontend:** HTML, CSS, Tailwind CSS, Shadcn/ui, TS, React -- Wagmi
-- **Backend:** Node.js, Express, PostgreSQL, Supabase
-- **Full Stack:** TS, Next.js
-- **Testing:** Cypress, Jest, Supertest -- Foundry
-- **Tools:** Git
+- ### 🛠️ Technical Stack
+- **Frontend & Performance:** React, Next.js (App Router), TypeScript, React Suspense, Next.js Streaming, Skeleton Loading Patterns.
+- **State & Data:** React Context, TanStack Query, TanStack Table, React Hook Form, Zod.
+- **Web3 Infrastructure:** Solidity, Foundry (contracts, deployment scripts, tests), Wagmi, Alchemy WebSockets.
+- **Oracle & Automation:** Chainlink (VRF, Price Feeds, Automation/Keepers), Tenderly Web3 Actions.
+- **Backend & DevOps:** Supabase (Auth/Postgres/Realtime), GitHub Actions, Vercel.
+- **Testing:** Jest, Cypress.
 
-### 🌐 My Portfolio
-- [Portfolio 2025](https://siegfried-bozza-portfolio-next.vercel.app)
-- [Portfolio 2024](https://siegfried-bozza-portfolio.vercel.app)
+### 📬 Connect with me
+- **Portfolio:** [siegfried-bozza-portfolio-next.vercel.app](https://siegfried-bozza-portfolio-next.vercel.app)
+- **LinkedIn:** [https://www.linkedin.com/in/siegfriedbozza](https://www.linkedin.com/in/siegfriedbozza)
+- **Email:** [siegfried.bozza@protonmail.com](mailto:siegfried.bozza@protonmail.com)
 
-### 📬 Contact Me
-Feel free to reach out via email at [siegfried.bozza@protonmail.com](mailto:siegfried.bozza@protonmail.com) !
-
-I'm excited to keep learning & grow my skills, to contribute to innovative projects and collaborate with other developers. Feel free to reach out!
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siegfriedbz&show_icons=true&locale=en&layout=compact" alt="siegfriedbz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siegfriedbz&show_icons=true&locale=en" alt="siegfriedbz" /></p>
-
-
-
-
+### 🌍 Availability & Mobility
+I am currently seeking global-remote opportunities or international relocation. Having spent 5 years working in Canada and Switzerland, I am highly mobile and comfortable integrating into diverse, high-growth environments worldwide. I am looking for a mission-driven team where I can contribute at scale.
