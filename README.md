@@ -7,9 +7,9 @@ I bring a background in **Biology Research (M.Sc)** and **Civil Engineering (M.E
 - **Global Mindset:** 5 years international work experience (Vancouver 🇨🇦 & Zurich 🇨🇭).
 
 ### 🛠️ Technical Stack
-- **Frontend & Performance:** React, Next.js (App Router), TypeScript, React Suspense, Next.js Streaming, Skeleton Loading Patterns.
+- **Frontend & Performance:** React, Next.js (App Router), TypeScript, React Suspense, Next.js Streaming.
 - **State & Data:** React Context, TanStack Query, TanStack Table, React Hook Form, Zod.
-- **Web3 Infrastructure:** Solidity, Foundry (contracts, deployment scripts, tests), Wagmi, Alchemy WebSockets.
+- **Web3:** Solidity, Foundry (contracts, deployment scripts, tests), Wagmi, Alchemy WebSockets.
 - **Oracle & Automation:** Chainlink (VRF, Price Feeds, Automation/Keepers), Tenderly Web3 Actions.
 - **Backend & DevOps:** Supabase (Auth/Postgres/Realtime), GitHub Actions, Vercel.
 - **Testing:** Jest, Cypress.
