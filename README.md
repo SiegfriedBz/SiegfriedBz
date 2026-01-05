@@ -6,7 +6,7 @@ I bring a background in **Biology Research (M.Sc)** and **Civil Engineering (M.E
 - **Experience:** 1.5+ years professional React/Next.js; 3.5+ years total dev; 15 years in scientific/engineering environments.
 - **Global Mindset:** 5 years international work experience (Vancouver 🇨🇦 & Zurich 🇨🇭).
 
-- ### 🛠️ Technical Stack
+### 🛠️ Technical Stack
 - **Frontend & Performance:** React, Next.js (App Router), TypeScript, React Suspense, Next.js Streaming, Skeleton Loading Patterns.
 - **State & Data:** React Context, TanStack Query, TanStack Table, React Hook Form, Zod.
 - **Web3 Infrastructure:** Solidity, Foundry (contracts, deployment scripts, tests), Wagmi, Alchemy WebSockets.
