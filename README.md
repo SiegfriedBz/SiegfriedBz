@@ -15,7 +15,7 @@ I bring a background in **Biology Research (M.Sc)** and **Civil Engineering (M.E
 - **Testing:** Jest, Cypress.
 
 ### 📬 Connect with me
-- **Portfolio:** [siegfried-bozza-portfolio-next.vercel.app](https://siegfried-bozza-portfolio-next.vercel.app)
+- **Portfolio:** [https://siegfried-bozza-portfolio-next.vercel.app](https://siegfried-bozza-portfolio-next.vercel.app/)
 - **LinkedIn:** [https://www.linkedin.com/in/siegfriedbozza](https://www.linkedin.com/in/siegfriedbozza)
 - **Email:** [siegfried.bozza@protonmail.com](mailto:siegfried.bozza@protonmail.com)
 
